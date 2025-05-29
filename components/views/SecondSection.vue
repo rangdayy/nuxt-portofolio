@@ -11,7 +11,7 @@
       }"
       :transition="{
         delay: 0.5,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       class="text-base md:text-xl"
@@ -29,7 +29,7 @@
       }"
       :transition="{
         delay: 0.5,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       class="text-base md:text-xl"
@@ -47,7 +47,7 @@
       }"
       :transition="{
         delay: 1,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       class="text-base md:text-xl text-right pt-10"
@@ -65,7 +65,7 @@
       }"
       :transition="{
         delay: 2,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       class="text-base md:text-xl pt-10 pb-3"
@@ -76,7 +76,7 @@
       :initial="{ opacity: 0, filter: 'blur(5px)', y: 20, x: -20 }"
       :transition="{
         delay: 2.5,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       :while-in-view="{

@@ -11,7 +11,7 @@
         }"
         :transition="{
           delay: 0.5,
-          duration: 0.8,
+          duration: 0.5,
           ease: 'easeInOut',
         }"
         class="text-4xl font-thin"
@@ -28,7 +28,7 @@
         }"
         :transition="{
           delay: 0.5,
-          duration: 0.8,
+          duration: 0.5,
           ease: 'easeInOut',
         }"
         class="text-4xl font-thin"
@@ -46,7 +46,7 @@
       }"
       :transition="{
         delay: 0.5,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
     >

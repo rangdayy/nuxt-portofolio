@@ -11,7 +11,7 @@
         }"
         :transition="{
           delay: 0.5,
-          duration: 0.8,
+          duration: 0.5,
           ease: 'easeInOut',
         }"
         class="relative rounded-2xl p-1"
@@ -36,7 +36,7 @@
         }"
         :transition="{
           delay: 0.5,
-          duration: 0.8,
+          duration: 0.5,
           ease: 'easeInOut',
         }"
         class=" space-y-5"

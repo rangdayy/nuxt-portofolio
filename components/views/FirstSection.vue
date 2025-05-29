@@ -15,7 +15,7 @@
       }"
       :transition="{
         delay: 0.3,
-        duration: 0.8,
+        duration: 0.5,
         ease: 'easeInOut',
       }"
       class="relative flex flex-col items-center justify-center gap-4 px-4 max-w-2xl mx-auto dark:text-white text-center"

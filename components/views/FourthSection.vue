@@ -11,7 +11,7 @@
             filter: 'blur(0px)',
           }"
           :transition="{
-            duration: 0.8,
+            duration: 0.5,
             ease: 'easeInOut',
           }"
         >
@@ -31,7 +31,7 @@
             filter: 'blur(0px)',
           }"
           :transition="{
-            duration: 0.8,
+            duration: 0.5,
             ease: 'easeInOut',
           }"
         >
