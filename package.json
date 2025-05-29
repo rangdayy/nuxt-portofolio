@@ -7,7 +7,8 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "deploy": "gh-pages --dotfiles -d .output/public"
   },
   "dependencies": {
     "@nuxt/eslint": "^1.4.1",
@@ -30,6 +31,7 @@
     "@inspira-ui/plugins": "^0.0.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "gh-pages": "^6.3.0",
     "tailwind-merge": "^3.3.0",
     "tailwindcss-animate": "^1.0.7"
   }

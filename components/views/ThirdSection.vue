@@ -43,7 +43,7 @@
       >
       <div class="space-y-2">
         <p class="text-4xl font-thin">I’m a web dev who mess around</p>
-        <FlipWords :words="['Design', 'Code', 'and occasionally', 'a camera']" :duration="2000" class="text-3xl md:text-6xl font-bold !text-lime-500" />
+        <FlipWords :words="['Design', 'Code', 'and occasionally', 'a camera']" :duration="2000" class="text-3xl md:text-6xl font-bold !text-lime-500 min-h-9" />
       </div>
       <p class="font-thin italic tracking-widest">Still learning, still curious, always caffeinated.</p>
       <div>
