@@ -1,1 +1,0 @@
-import{d as t,x as n,B as o,y as a,ar as c}from"./Dek-Kyd7.js";const _={class:"overflow-x-hidden dark:bg-zinc-900 bg-white text-zinc-900 dark:text-zinc-100 tracking-wide"},p=t({__name:"default",setup(r){return(s,d)=>{const e=c;return a(),n("div",_,[o(e)])}}});export{p as default};
